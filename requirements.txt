@@ -1,0 +1,8 @@
+streamlit==1.39.0
+pandas==2.2.3
+pandasql==0.7.3
+python-dotenv==1.0.1
+groq==0.11.0
+semantic-router[local]==0.3.8
+chromadb==0.5.4
+sentence-transformers==3.2.0
